@@ -2,6 +2,14 @@
 
 BreakoutPack is an open-source collection of breakout boards for ICs, connectors, sensors, and other components, designed in KiCad to support easy integration and rapid electronics development.
 
+## Symbols and Footprints
+
+This repository uses generic and native KiCad libraries wherever possible to maximize portability and ease of use:
+
+- **Symbols**: Standard KiCad generic symbols are used wherever possible. If a suitable symbol does not exist or a component requires a specialized symbol, a unified custom symbol library named `BreakoutPack` is used.
+
+- **Footprints**: Native KiCad footprints are preferred. When custom or external footprints are needed, they are organized into categorized `.pretty` folders located at the root of the repository with the convention `BreakoutPack_{Type}.pretty` (e.g., `BreakoutPack_Conn.pretty`, `BreakoutPack_IC.pretty`, `BreakoutPack_Prog.pretty`, `BreakoutPack_LED.pretty`, etc.).
+
 ## 📦 Summary
 
 | Folder Name                      | Category | Description                                                                                                         |
