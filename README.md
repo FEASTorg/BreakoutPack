@@ -10,6 +10,8 @@ This repository uses generic and native KiCad libraries wherever possible to max
 
 - **Footprints**: Native KiCad footprints are preferred. When custom or external footprints are needed, they are organized into categorized `.pretty` folders located at the root of the repository with the convention `BreakoutPack_{Type}.pretty` (e.g., `BreakoutPack_Conn.pretty`, `BreakoutPack_IC.pretty`, `BreakoutPack_Prog.pretty`, `BreakoutPack_LED.pretty`, etc.).
 
+**Note:** As a general design rule, each breakout board should rely on no more than one custom symbol or footprint—and this should correspond to the board's primary component. If a design requires multiple unique external parts, it may be a sign the breakout should be split or simplified.
+
 ## 📦 Summary
 
 | Folder Name                      | Category | Description                                                                                                         |
