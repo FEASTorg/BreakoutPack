@@ -1,7 +1,0 @@
-# :
-
-## info
-
-## parts dump
-
--
