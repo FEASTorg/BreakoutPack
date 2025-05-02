@@ -12,4 +12,5 @@ Allows for supplying different voltages by populating the bottom side with desir
 
 ## parts dump
 
--
+- [Molex - 0475900001 - CONN RCPT MICRO USB AB 5P SMD RA](https://www.digikey.ca/en/products/detail/molex/0475900001/1832254)
+- [Amphenol ICC (FCI) - 10104111-0001LF - CONN RCPT USB2.0 MICRO AB SMD RA](https://www.digikey.ca/en/products/detail/amphenol-cs-fci/10104111-0001LF/2350354)
