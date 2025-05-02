@@ -2,6 +2,11 @@
 
 BreakoutPack is an open-source collection of breakout boards for ICs, connectors, sensors, and other components, designed in KiCad to support easy integration and rapid electronics development.
 
+## Some Notes
+
+- All boards are intended for full-size 830-point breadboards.
+- Most modules share a consistent form factor for easy panelization.
+
 ## Symbols and Footprints
 
 This repository uses generic and native KiCad libraries wherever possible to maximize portability and ease of use:

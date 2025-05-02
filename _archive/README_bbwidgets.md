@@ -129,7 +129,3 @@ Included files of @sufzoli 's [**voltage inverter**](https://github.com/sufzoli/
 Based on ICL7660, inverts supply voltage.
 
 <img src="voltage inverter/EAGLE (remake)/ICL7660.sch.png" alt=".sch" height="150px"> <img src="voltage inverter/EAGLE (remake)/ICL7660.brd.png" alt=".sch" height="150px">
-
-## Acknowledgement
-
-Further development of: [github.com/stefan-lochbrunner/breadboard-widgets](https://github.com/stefan-lochbrunner/breadboard-widgets)
